@@ -6,7 +6,7 @@
     <value type="int" value="1"/>
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=0;x=1003;y=33"/>
+      <property name="position" type="string" value="p=11;x=1013;y=17"/>
       <property name="size" type="uint" value="33"/>
       <property name="length" type="double" value="89.635416666666671"/>
       <property name="background-style" type="uint" value="1"/>
@@ -60,11 +60,14 @@
         <value type="string" value="blueberry-tray.py"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="steam"/>
         <value type="string" value="discord1"/>
       </property>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="firefox.instance1492;firefox.instance2674"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="mailwatch"/>

@@ -1,6 +1,14 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/ben/Desktop/backgrounds.zip]
+row=2
+col=0
+
+[/home/ben/Desktop/SSDT-RHUBS-OFF.aml]
+row=3
+col=0
+
 [/home/ben/Desktop/steam.desktop]
 row=1
 col=0

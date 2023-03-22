@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=plank.desktop,firefox.desktop,discord.desktop,qt5ct.desktop,xfce-ui-settings.desktop,xfce4-terminal.desktop,kvantummanager.desktop,xfce4-terminal-emulator.desktop,xfce-session-settings.desktop
+recent=org.telegram.desktop.desktop,xfce4-terminal-emulator.desktop,xfce4-file-manager.desktop,discord.desktop,xfce4-web-browser.desktop,firefox.desktop,steam.desktop,oc-auxiliary-tools.desktop,STAR WARS The Old Republic.desktop,plank.desktop
 button-title=XeroCE Menu
 button-icon=/usr/share/pixmaps/xero.png
 button-single-row=false
