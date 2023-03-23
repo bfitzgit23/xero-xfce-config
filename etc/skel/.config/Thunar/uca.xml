@@ -133,3 +133,13 @@
 	<other-files/>
 	<text-files/>
 </action>
+<action>
+	<icon>cs-startup-programs</icon>
+	<name>Run...</name>
+	<unique-id>1526630606202525-4</unique-id>
+	<command>xfce4-terminal -e %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
+</action>

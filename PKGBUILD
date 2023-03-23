@@ -2,7 +2,7 @@
 pkgname=xero-xfce-config
 _destname1="/etc"
 pkgver=Rolling
-pkgrel=6
+pkgrel=7
 pkgdesc="Desktop Config for xeroce"
 arch=('any')
 url="https://github.com/bfitzgit23"
